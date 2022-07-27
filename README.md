@@ -1,7 +1,8 @@
 # produtos
 lista de produtos
-<indicador001>
+
+@indicador001@
 555588,
 888856,
 66045840
-</indicador001>
+#indicador001#
